@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125897467430",
+    "project_id": "feeds-app-fc367",
+    "storage_bucket": "feeds-app-fc367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125897467430:android:659fe5691bbd02426c68e7",
+        "android_client_info": {
+          "package_name": "com.markfick.stocknewsfeedapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125897467430-gtubs2hluvb7qbd6bi9t533ci7g8ub45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJp7Wo5TzwxCiIO_9BmuM5PeaqMzIJsfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125897467430-gtubs2hluvb7qbd6bi9t533ci7g8ub45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
